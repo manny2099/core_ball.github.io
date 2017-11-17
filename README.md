@@ -1,5 +1,5 @@
 ##Core Ball
-    游戏地址 http://coreball.sinaapp.com
+    游戏地址 https://manny2099.github.io/core_ball2/
         
 ## Release History
 * 2015-03-13 First Release
